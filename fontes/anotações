@@ -1,0 +1,17 @@
+1º passo- criar um "header" que é o cabeçlho
+
+2º passo- Criar um "Nav" para ta adicionando links. obs: O nav serve para agrupar uma lista de links para outras partes do site, seja essa lista de naveção ou global
+
+3º passo - colocaremos uma div "main". Essa div serve para adicionar a parte mais importante do texto
+
+4º passo- Dentro de "main" vamos colocar "article" e logo depois colocamos o artigo ou texto dentro daqueles
+
+5º passo- Logo depois colcomos "footer" para criar um rodapé. Após a palavra "main"
+
+6º passo- criar as os icones e estilos CSS
+
+7º passo- pode colocar a tag "aside" que dar a ideia de um conhecimento a mais
+
+8º passo - faz as separações de o que é h1, o que é paragrafo etc.
+
+9º passo- 
